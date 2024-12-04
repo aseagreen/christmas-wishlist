@@ -14,7 +14,7 @@ body {
   height: 100vh;
   text-align: center;
   position: relative;
-  overflow: hidden;
+  overflow: auto;
 }
 
 /* Snowflakes animation */
